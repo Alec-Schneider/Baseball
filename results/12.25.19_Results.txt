@@ -1,0 +1,56 @@
+SVM
+
+Mean Square Error: 1.4092
+R^2: 0.6495
+explained_var_score: 0.6981
+
+*************************
+
+SGD
+
+Mean Square Error: 0.2474
+R^2: 0.9385
+explained_var_score: 0.9605
+
+*************************
+
+BayesianRidge
+
+Mean Square Error: 0.1741
+R^2: 0.9567
+explained_var_score: 0.9779
+
+*************************
+
+Lasso
+
+Mean Square Error: 5.6687
+R^2: -0.4099
+explained_var_score: 0.0
+
+*************************
+
+PasiveAggressive
+
+Mean Square Error: 7.9464
+R^2: -0.9764
+explained_var_score: -0.0126
+
+*************************
+
+TheilSen
+
+Mean Square Error: 0.2983
+R^2: 0.9258
+explained_var_score: 0.9655
+
+*************************
+
+Linear
+
+Mean Square Error: 0.1741
+R^2: 0.9567
+explained_var_score: 0.9779
+
+*************************
+
